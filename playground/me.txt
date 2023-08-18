@@ -1,5 +1,0 @@
-{{#user}}
-Name:Shivam Singh Yadav
-Skills:HTML,CSS, JavaScript , ReactJs,Java,c,C++
-Email:shivamsinghyadavssy888@gmail.com
-{{/user}}
